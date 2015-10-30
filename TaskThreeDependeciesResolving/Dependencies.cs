@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace TaskThreeDependeciesResolving
 {
-    class Program
+    class Dependencies
     {
         private static readonly HashSet<string> Visited = new HashSet<string>();
         private static HashSet<string> IncomingEdges = new HashSet<string>();

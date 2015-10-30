@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TaskOnePoints
 {
-    class Program
+    class Points
     {
         static void Main(string[] args)
         {

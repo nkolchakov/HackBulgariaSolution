@@ -51,7 +51,7 @@ a	r	n	t
      
 output: 0
      * */
-    class Program
+    class WordGame
     {
         static void Main()
         {
