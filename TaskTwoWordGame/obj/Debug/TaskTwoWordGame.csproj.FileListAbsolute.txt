@@ -1,0 +1,6 @@
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskTwoWordGame\bin\Debug\TaskTwoWordGame.exe.config
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskTwoWordGame\bin\Debug\TaskTwoWordGame.exe
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskTwoWordGame\bin\Debug\TaskTwoWordGame.pdb
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskTwoWordGame\obj\Debug\TaskTwoWordGame.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskTwoWordGame\obj\Debug\TaskTwoWordGame.exe
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskTwoWordGame\obj\Debug\TaskTwoWordGame.pdb

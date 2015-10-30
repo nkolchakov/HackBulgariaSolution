@@ -1,0 +1,6 @@
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskOnePoints\bin\Debug\TaskOnePoints.exe.config
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskOnePoints\bin\Debug\TaskOnePoints.exe
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskOnePoints\bin\Debug\TaskOnePoints.pdb
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskOnePoints\obj\Debug\TaskOnePoints.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskOnePoints\obj\Debug\TaskOnePoints.exe
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskOnePoints\obj\Debug\TaskOnePoints.pdb

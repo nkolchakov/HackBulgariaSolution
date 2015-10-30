@@ -1,0 +1,6 @@
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskThreeDependeciesResolving\bin\Debug\TaskThreeDependeciesResolving.exe.config
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskThreeDependeciesResolving\obj\Debug\TaskThreeDependeciesResolving.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskThreeDependeciesResolving\bin\Debug\TaskThreeDependeciesResolving.exe
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskThreeDependeciesResolving\bin\Debug\TaskThreeDependeciesResolving.pdb
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskThreeDependeciesResolving\obj\Debug\TaskThreeDependeciesResolving.exe
+D:\Visual Studio 2013 Projects\HackBulgariaSolution\TaskThreeDependeciesResolving\obj\Debug\TaskThreeDependeciesResolving.pdb
